@@ -1,0 +1,10 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "Helps you find the friend you are looking for",
+  "main": "server.js",
+
+  "scripts": {
+    "start": "node server.js"
+  }
+}
